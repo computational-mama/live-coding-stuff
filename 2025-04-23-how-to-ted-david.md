@@ -1,7 +1,7 @@
+```javascript
 // p5 » hydra
 // pass p5 into hydra
 // built on HY5Live
-
 
 s0.initP5() // send p5 to hydra
 P5.toggle(0) // optionally hide p5
@@ -57,3 +57,4 @@ function draw() {
 	text("4pm IST",250,300)
 	
 }
+```
