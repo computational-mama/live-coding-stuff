@@ -1,7 +1,7 @@
 # Intro
 This is the code snippet to use osc from processing, you can use input values from mouse and keyboard via OSC to control the sonic pi sounds. 
 Steps: 
-1. Open the processing file and run the sketch
+1. Open the processing file and run the sketch (NOTE: you must install the oscP5 library. **Sketch>Import Library>Manage Library**) 
 2. Open Sonic Pi, add the code below and run it
 
 ```ruby
