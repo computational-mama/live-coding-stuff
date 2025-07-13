@@ -74,11 +74,11 @@ function draw() {
 	text(enyatra, width / 2 + sin(frameCount * 2) * offset, 60+height / 2 + cos(frameCount * 2) * offset)
 }
 
-function keyPressed(){
-	if(key == 'S'){
-		pg.save('P5LIVE_hydra.png') // save hydra texture
-	}
-}
+//function keyPressed(){
+//	if(key == 'S'){
+//		pg.save('P5LIVE_hydra.png') // save hydra texture
+//	}
+//}
 
 function googleFont(fontName) {
 	let link = document.createElement("link")
