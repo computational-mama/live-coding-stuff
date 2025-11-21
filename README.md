@@ -11,6 +11,7 @@ collecting all live coding sets here as made or recalled
 - [code yatra logo](/2025-04-23-codeyatra-logo.md)
 - [how to ted davis banner](/2025-04-23-how-to-ted-david.md)
 - [hydra with feedback](2025-05-23-hydrawithfeedback.md)
+- [code.drift logo in white on hy5live](codedrift-logo-hy5live.md)
 - code.yatra stuff 
   - [cy-experiment-kachra](cy-nana-cmama/2025-04-27-CY-UDZ-experiment.md)
   - [train window](cy-nana-cmama/20250507_trainwindow.md)
