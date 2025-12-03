@@ -17,4 +17,4 @@ collecting all live coding sets here as made or recalled
   - [train window](cy-nana-cmama/20250507_trainwindow.md)
   - [walking through udaipur](cy-nana-cmama/20250507_walkingthroughudr.md)
   - [utils: sonic pi snippet to open OSC to processing](cy-nana-cmama/sonicpisnippet.md)
-
+- [godrej concscious collective 2025](cy-nana-cmama/2025dec-godrej-conscious.md)
